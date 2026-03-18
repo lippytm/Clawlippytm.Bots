@@ -1,2 +1,0 @@
-[console_scripts]
-clawbots = clawlippytm_bots.cli:main
